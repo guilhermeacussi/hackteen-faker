@@ -1,4 +1,4 @@
-# Faker - HackTeen 2025 - 1AMS
+# Faker - HackTeen 2025
 
 ## Sobre o Projeto
 
